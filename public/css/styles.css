@@ -1,0 +1,54 @@
+header {
+    background-color: #EAC926;
+    background-size: cover;
+}
+.logo {
+    width: 200px;
+    margin: 20px;
+}
+form {
+    height: 21px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.icon {
+    height: 21px;
+}
+.comprar {
+    font-size: 12px;
+    font-family: 'roboto';
+    text-align: center;
+}
+.titulares{
+    font-size: 24px;
+    font-family: 'roboto';
+
+}
+.navLink {
+    font-size: 12px;
+    font-family: 'roboto';
+    color: black;
+    text-decoration: none;
+    box-shadow: none;
+}
+.button {
+    text-align: center;
+}
+.burger {
+    text-align: center;
+    background-color: #1259c3;
+    border: none;
+    height: 40px;
+    width: 40px;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.banner {
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:90%;
+}
