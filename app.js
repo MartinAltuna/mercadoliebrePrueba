@@ -7,5 +7,5 @@ app.listen(numeroPuerto, ()=>{
     console.log('Servidor funcionando en el puerto ' + numeroPuerto);
 })
 app.get('/', (req, res)=>{
-    res.send(/views/home.html)
+    res.sendFile(path.resolve('views/home.html'))
 })
